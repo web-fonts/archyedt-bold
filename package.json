@@ -1,0 +1,23 @@
+{
+  "name": "archyedt-bold",
+  "version": "1.0.0",
+  "description": "ArchyEDT-Bold Web-Font Package",
+  "keywords": ["ttf", "woff", "woff2", "svg", "font", "web-font", "archyedt-bold"],
+  "main": "css/archyedt-bold.css",
+  "homepage": "https://github.com/web-fonts/archyedt-bold",
+  "author": "Lado Lomidze <lado.lomidze@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-fonts/archyedt-bold.git"
+  },
+  "licenses": [
+    {
+      "type": "CC-BY-NC-ND 4.0",
+      "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    },
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+   }
+  ]
+}
